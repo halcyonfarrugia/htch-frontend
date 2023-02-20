@@ -1,4 +1,4 @@
-HTCH - Men’s Vintage Clothes (MERN Stack)
+# HTCH - Men’s Vintage Clothes (MERN Stack)
 
 This is a small portfolio side-project done in my freetime to showcase and practice my skills within the MERN stack, and corresponding frameworks and third-party modules. This project uses MongoDB, Express & Node, along with React as the main technologies, while utilizing third-party modules such as JSONWebToken (for authentication protocol), Cloudinary (for image upload), Square (for payments) & BCrypt (for encryption). The CSS Framework used was Chakra-UI.
 
